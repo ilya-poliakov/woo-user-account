@@ -4,9 +4,9 @@ Plugin Name: WooCommerce User Account extended
 Plugin URI: http://webcodemarket.com
 Description:
 Version: 1.0
-Author: WebCodeMarket
-Author URI: http://webcodemarket.com
-Copyright 2018-2019 webcodemarket.com. All rights reserved.
+Author: Ilya Polyakov
+Author URI: 
+Copyright 2018-2019 ilya polyakov. All rights reserved.
 Text Domain: woo-user-account
 Domain Path: /i18n/
 */
